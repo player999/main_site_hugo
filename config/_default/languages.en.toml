@@ -1,0 +1,29 @@
+languageCode = "en-UK"
+languageName = "English"
+weight = 1
+
+title = "Home"
+copyright = "&copy; 2023 Taras Zakharchenko"
+
+[params]
+  isoCode = "en-UK"
+  displayName = "English"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  mainSections = ["samples"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[author]
+  name = "Taras Zakharchenko"
+  image = "img/taras.jpg"
+  headline = "An experienced software engineer"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+	{ github = "https://github.com/player999" },
+    #{ twitter = "https://twitter.com/" },
+    #{ facebook = "https://facebook.com/" },
+    #{ linkedin = "https://linkedin.com/" },
+    #{ youtube = "https://youtube.com/" },
+  ]

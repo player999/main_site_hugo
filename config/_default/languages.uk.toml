@@ -1,0 +1,29 @@
+languageCode = "uk-ua"
+languageName = "Українська"
+weight = 1
+
+title = "Головна"
+copyright = "&copy; 2023 Тарас Захарченко"
+
+[params]
+  isoCode = "uk-UA"
+  displayName = "Українська"
+  rtl = false
+
+  dateFormat = "2 January 2006"
+
+  mainSections = ["samples"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[author]
+  name = "Тарас Захарченко"
+  image = "img/taras.jpg"
+  headline = "Досвідчений інженер програмного забезпечення"
+  bio = "This is an example author bio, and although there's a stock photo of a dog here, this article was actually created by a human. :dog:"
+  links = [
+	{ github = "https://github.com/player999" },
+    #{ twitter = "https://twitter.com/" },
+    #{ facebook = "https://facebook.com/" },
+    #{ linkedin = "https://linkedin.com/" },
+    #{ youtube = "https://youtube.com/" },
+  ]
